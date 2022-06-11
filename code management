@@ -1,0 +1,18 @@
+git init
+git status
+Changes not staged for commit:
+(use "git add <file>..." to update what will be committed)
+(use "git checkout -- <file>..." to discard changes in working directory)
+ 
+   modified:  file.txt
+   modified:  file2.txt
+   git add .
+   git add [file or folder name]
+   git reset
+   git reset [file or folder name]
+   git commit -m "first commit"
+   git remote add origin https://github.com/username/repository_name.git
+   git push -u origin main
+   git add .
+git commit -m "type your commit message here"
+git push
